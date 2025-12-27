@@ -16,8 +16,8 @@
 # Age 1337 just an integer, curiosity is infinite
 
 echo "Languages I speak:"
-echo "  Low-level: 🐛 ASM | 🖥️ C | 🔥 C++" | 🍒 Nim | 🪿 Go
-echo "  High-level: 🐍 Python | 🎮 Unity | 🐧 Arch Linux daily driver"
+echo "  Low-level: 🐛 ASM || 🖥️ C || 🔥 C++" || 🍒 Nim || 🪿 Go || 🦀 Rust
+echo "  High-level: 🐍 Python || 🎮 DlackArch || 🐧 Arch Linux daily driver"
 echo ""
 echo "Philosophy: Understanding the stack from bare metal to abstract clouds"
 echo "Status: Always compiling... (sometimes with warnings)"
