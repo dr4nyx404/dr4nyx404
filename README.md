@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/f0876646-da58-4a70-9f27-3df196de87e8" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Assembly-Dark.svg" width="100%" alt="Dragon ASCII"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=7CE577&center=true&vCenter=true&width=600&lines=while(alive)+%7B;learn();+code();+create();%7D" alt="Typing SVG" />
 </h1>
