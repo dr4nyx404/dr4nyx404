@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?dr4nyx404=DenverCoder1)](https://git.io/streak-stats)" alt="GitHub Streak" />
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?dr4nyx404=DenverCoder1)](https://git.io/streak-stats)"" />
   </a>
 </p>
 
