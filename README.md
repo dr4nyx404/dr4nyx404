@@ -4,12 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=7CE577&center=true&vCenter=true&width=600&lines=while(alive)+%7B;learn();+code();+create();%7D" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dr4nyx404&theme=highcontrast&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400" height="150">
+<div align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" 
+         alt="GitHub Streak" 
+         style="max-width: 100%; height: auto;">
   </a>
-</p>
-
+</div>
 
 ## 🧠 about_me.sh
 ```bash
