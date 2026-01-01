@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=dr4nyx404&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" 
+    <img src="[https://streak-stats.demolab.com/?user=dr4nyx404&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j](https://streak-stats.demolab.com?user=dr4nyx404&theme=hacker&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)" 
          alt="GitHub Streak" 
          style="max-width: 100%; height: auto;">
   </a>
