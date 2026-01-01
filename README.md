@@ -6,11 +6,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=dr4nyx404&theme=highcontrast&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=dr4nyx404&theme=highcontrast&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400" height="150">
   </a>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dr4nyx404&theme=highcontrast&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 🧠 about_me.sh
 ```bash
