@@ -10,6 +10,8 @@
   </a>
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=dr4nyx404&theme=highcontrast&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)
+
 ## 🧠 about_me.sh
 ```bash
 #!/bin/sh
